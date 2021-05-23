@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397025779489",
+    "project_id": "rntodo-app",
+    "storage_bucket": "rntodo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397025779489:android:697e8c49fa9580457aa860",
+        "android_client_info": {
+          "package_name": "com.appcitor.rntodo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397025779489-dlvkh7anhjfqpo9aqc2melp6834v5tgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appcitor.rntodo_app",
+            "certificate_hash": "5e23847bb72aaa40873e693eabb8e8378ee0aa57"
+          }
+        },
+        {
+          "client_id": "397025779489-iljgpqq75uvbi662r1fpebjckpu83unh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5SYv6zft57tfU-R4wGhraw8cdKnpJx0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397025779489-iljgpqq75uvbi662r1fpebjckpu83unh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
